@@ -15,7 +15,7 @@ Open http://localhost:5186/. The deployed website is static HTML, CSS, and JavaS
 ## Features
 
 - Dedicated pages for six financing products, requirements, About, success stories, careers, contact, rates, and applications.
-- Responsive photo headers, current Blu branding, accessible menus, and contact icons.
+- Unique, page-specific photo headers, current Blu branding, accessible menus, and contact icons.
 - Exact customer-provided testimonials and reviews; review dates and platform labels are hidden.
 - Three customer-story YouTube players and channel links.
 - Rule-based chatbot; no paid AI calls or API key required.
@@ -44,6 +44,7 @@ node --check dist/chat.js
 - `scripts/generate-site.py`: shared headers, navigation, footers, product content, and page generation.
 - `content.json`: product data and reusable form/section markup.
 - `reviews.json`, `testimonials.json`: customer content and retained provenance.
+- `page-photos.json`: page-specific header photos and photographer credits.
 - `templates/`: application, About, and video-story markup.
 - `dist/site.css`, `dist/site.js`, `dist/chat.js`: styling and interaction logic.
 - `dist/`: ready-to-serve pages, photos, branding, and legal documents.
