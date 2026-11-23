@@ -2,7 +2,7 @@
 
 Multi-page business financing website with product information, customer testimonials and reviews, video success stories, contact tools, and a financing inquiry flow.
 
-Live site: https://blu-capital-reimagined.aredth7.chatgpt.site/
+Live site: https://aredthsanchez.github.io/Blu-Capital-Redesign/dist/index.html
 
 ## Preview
 
